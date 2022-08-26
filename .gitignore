@@ -1,3 +1,5 @@
 .idea/
-
+*.pyc
+__pycache__/
+*.py[cod]
 naming_convention.txt
