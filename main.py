@@ -1,4 +1,5 @@
 from calculatorTests import CalculatorTest
 
-obj = CalculatorTest()
-obj.openningCalculator()
+calc = CalculatorTest()
+calc.multiplicationTest()
+
